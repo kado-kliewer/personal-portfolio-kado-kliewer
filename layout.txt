@@ -1,0 +1,21 @@
+Conceptual Site Map:
+
+Home (index.html)
+About (to be added later)
+Portfolio (to be added later)
+Contact (to be added later)
+
+
+Page Layout:
+
+Header with navigation
+Main content area
+Footer
+
+
+Color Palette:
+
+Charcoal Grey: #36454F
+Blue: #1E90FF
+White: #FFFFFF
+Black (for text): #000000
